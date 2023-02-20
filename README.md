@@ -15,4 +15,9 @@ https://console.cloud.google.com/
 https://firebase.google.com/
 
 
+//React
+https://react-hot-toast.com/
+https://www.npmjs.com/package/react-firebase
+
+
 https://daily.dev/ - ALL DEVELOPER NEWS IN ONE PLACE
