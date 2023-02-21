@@ -13,6 +13,7 @@ https://tailwindcss.com/ -
 
 https://console.cloud.google.com/
 https://firebase.google.com/
+https://www.npmjs.com/package/firebase-admin
 
 
 //React
