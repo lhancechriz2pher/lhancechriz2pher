@@ -16,9 +16,12 @@ https://firebase.google.com/
 https://www.npmjs.com/package/firebase-admin
 
 
-//React
+### React
 https://react-hot-toast.com/
 https://www.npmjs.com/package/react-firebase
 
 
 https://daily.dev/ - ALL DEVELOPER NEWS IN ONE PLACE
+
+# AI 
+
